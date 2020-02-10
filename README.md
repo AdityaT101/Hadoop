@@ -1,4 +1,4 @@
-#Project Outline
+Hadoop Mapreduce -  Design patterns 
 
 Music Industry has reached a new high in Business and it has gone beyond the usual stereotypes of CD and DVD’s. It has become much more freely available on the internet, thanks to ever enhancing connectivity and newer technologies. 
 As every day passes, new recommendation engines have emerged in the market and they use BigData heavily in their processing. My motive behind Analyzing this Million Songs Dataset is to simulate a recommendation engine using Design Patterns used in Hadoop Mapreduce.
